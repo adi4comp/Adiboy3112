@@ -1,4 +1,5 @@
-![]("mario-hi.gif")
+<img align="left" alt="GIF" src="https://github.com/Adiboy3112/Adiboy3112/blob/master/mario-hi.gif" width="330" height="400" />
+
 ### Hi There👋, Welcome to Rajiv's Profile &nbsp; ![]()
 
 #### An undergraduate student at IIT Kharagpur,
