@@ -17,7 +17,7 @@ But anyhow that dosen't help you much. Does it? So here is something about me.
 - I **want** to start writing blogs,learn to play guitar/ukulele, try archery and shooting, make a notable Open-Source contribution, learn DevOps, learn Compiler Design, try arch linux rice my system, explore Blockchain and Cybersecurity, ~~learn how to~~ earn money <img src="pepesad_1-pngemoji.png" width="25" height="20" /> while enjoying what i do for it and much more ............  **So yeah, that's the dream**.  
 <br />
 
-_Ways to contact him_
+_Contact me_
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Adiboy)
 [![Email Badge](https://img.shields.io/badge/-Email-DB4437?style=flat-square&logo=Gmail&logoColor=white)](mailto:adisofficial.2001@gmail.com)
