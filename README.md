@@ -1,4 +1,4 @@
-<img align="left" alt="GIF" src="https://github.com/Adiboy3112/Adiboy3112/blob/master/mario-hi-unscreen.gif" width="350" height="425" />
+<img align="left" alt="GIF" src="https://github.com/Adiboy3112/Adiboy3112/blob/master/mario-hi-unscreen.gif" width="380" height="461" />
 
 ### Hello Visitors👋, Welcome to Aditya's Profile &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Adiboy3112.Adiboy3112)
 
