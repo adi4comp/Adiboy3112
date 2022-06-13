@@ -9,8 +9,11 @@ Hi, I am Aditya Ranjan Jha aka Adiboy. I know its weird alias but I have been us
 But anyhow that dosen't help you much. Does it? So here is something about me.
 
 - I love to talk about any topic that dosen't hurt anyone. So feel free to reach me for discussion. 
+
 - Any random day I would love to be **Jack of all trades over master of some**. So yeah, that's the dream.
+
 - Currently I am learning High Performance Computing and Parallel Processing, Embeded AI (ummmm more like tinkering with devboards) and Investment Strategies/Personal Finance (Without any money to actually invest <img src="pepesad_1-pngemoji.png" width="25" height="20" />)
+
 - I **want** to start writing blogs,learn to play guitar/ukulele, try archery and shooting, make a notable Open-Source contribution, learn DevOps, learn Compiler Design, try arch linux rice my system, explore Blockchain and Cybersecurity, ~~learn how to~~ earn money <img src="pepesad_1-pngemoji.png" width="25" height="20" /> while enjoying what i do for it and much more ............  **So yeah, that's the dream**.  
 <br />
 
