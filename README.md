@@ -1,6 +1,6 @@
 <img align="left" alt="GIF" src="https://github.com/Adiboy3112/Adiboy3112/blob/master/mario-hi-unscreen.gif" width="360" height="480" />
 
-## Hello Visitors👋, Welcome to Aditya's Profile &nbsp; ![]()
+### Hello Visitors👋, Welcome to Aditya's Profile &nbsp; ![]()
 
 #### 3rd Year Undergraduate Student IIT Kharagpur,
 
