@@ -1,12 +1,13 @@
-<img align="left" alt="GIF" src="https://github.com/Adiboy3112/Adiboy3112/blob/master/mario-hi-unscreen.gif" width="360" height="480" />
+<img align="left" alt="GIF" src="https://github.com/Adiboy3112/Adiboy3112/blob/master/mario-hi-unscreen.gif" width="330" height="400" />
 
-### Hello Visitors👋, Welcome to Aditya's Profile &nbsp; ![]()
+### Hello Visitors👋, Welcome to Aditya's Profile &nbsp; ![](![](https://visitor-badge.glitch.me/badge?page_id=Adiboy3112.Adiboy3112-1))
 
 #### 3rd Year Undergraduate Student IIT Kharagpur,
 
 Hi, I am Aditya Ranjan Jha aka Adiboy. I know its weird alias but I have been using it since too long to let it go.🙂 
 
 But anyhow that dosen't help you much. Does it? So here is something about me.
+
 - I love to talk about any topic that dosen't hurt anyone. So feel free to reach me for discussion. 
 - Any random day I would love to be **Jack of all trades over master of some**. So yeah, that's the dream.
 - Currently I am learning High Performance Computing and Parallel Processing, Embeded AI (ummmm more like tinkering with devboards) and Investment Strategies/Personal Finance (Without any money to actually invest <img src="pepesad_1-pngemoji.png" width="25" height="20" />)
