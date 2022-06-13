@@ -4,7 +4,7 @@
 
 #### 3rd Year Undergraduate Student IIT Kharagpur,
 
-Hi, I am Aditya Ranjan Jha aka Adiboy. I know its weird alias but I have been using it since too long to let it go.🙂 
+Hi, I am Aditya Ranjan Jha aka Adiboy. I know its a weird alias but I have been using it since too long to let it go.🙂 
 
 But anyhow that dosen't help you much. Does it? So here is something about me.
 
