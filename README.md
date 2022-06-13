@@ -32,7 +32,7 @@ _Ways to contact him_
 <img width="766em" src="https://github-profile-trophy.vercel.app/?username=Adiboy3112&theme=discord&no-frame=true&row=1&column=6" /> 
 <br /><br />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adiboy3112&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars,issues" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adiboy3112&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiboy3112&show_icons=true&hide=HTML,kotlin,swift&count_private=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
 
   <br>
