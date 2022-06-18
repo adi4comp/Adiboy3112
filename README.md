@@ -21,9 +21,11 @@ _Contact me_
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Adiboy)
 [![Email Badge](https://img.shields.io/badge/-Email-DB4437?style=flat-square&logo=Gmail&logoColor=white)](mailto:adisofficial.2001@gmail.com)
+<br /><br />
+
+[_My Blog Page_](https://adi4blogs.netlify.app)
+
 <br /><br /><br /><br />
-
-
 
 
 📈 **Aditya's GitHub Stats:**
