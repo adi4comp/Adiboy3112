@@ -2,7 +2,7 @@
 
 ## Hello Visitors👋, Welcome to Aditya's Profile &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Adiboy3112.Adiboy3112)
 
-#### 3rd Year Electrical Engineering Undergraduate Student IIT Kharagpur,
+#### 3rd Year Electrical Engineering Undergraduate Student IIT Kharagpur
 
 Hi, I am Aditya Ranjan Jha aka Adiboy. I know its a weird alias but I have been using it since too long to let it go.🙂 
 
