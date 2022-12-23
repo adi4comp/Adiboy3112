@@ -12,11 +12,6 @@ But anyhow that dosen't help you much. Does it? So here is something about me.
 
 - Any random day I would love to be the **Jack of all trades over master of some**. So yeah, that's the dream.
 
-- Currently I am learning High Performance Computing and Parallel Processing, Embeded AI (ummmm more like tinkering with devboards) and Investment Strategies/Personal Finance (Without any money to actually invest <img src="pepesad_1-pngemoji.png" width="25" height="20" />)
-
-- I **want** to start writing blogs,learn to play guitar/ukulele, try archery and shooting, make a notable Open-Source contribution, learn DevOps, learn Compiler Design, try arch linux, rice my system, explore Blockchain and Cybersecurity, ~~learn how to~~ earn money <img src="pepesad_1-pngemoji.png" width="25" height="20" /> while enjoying what i do for it and much more ............  **So yeah, that's the dream**.  
-<br />
-
 _Contact me_
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Adiboy)
