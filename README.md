@@ -2,15 +2,12 @@
 
 ## Hello Visitors, Welcome to Aditya's Profile &nbsp;
 
-#### Final Year Electrical Engineering Undergraduate Student IIT Kharagpur
+I am Aditya Ranjan Jha (aka adiboy/ARJ). I am a first-year doctoral student pursuing research in computer engineering. 
 
-Hi, I am Aditya Ranjan Jha aka Adiboy. I know it is a weird alias but I have been using it for too long to let it go.🙂 
+I am interested in learning computer architecture and computer security, but I would like to be part of any discussion that revolves around computer engineering.🙂
 
-But anyhow that doesn't help you much. Does it? So here is something about me.
+I am lucky to have graduated with the best peers and friends from IIT Kharagpur. A large bunch of my personal traits belong to that ecosystem.  
 
-I love to talk about any topic that doesn't hurt anyone. So feel free to reach me for discussion. 
-
-On any random day I would love to be the **Jack of all trades over master of some**. So yeah, that's the dream.
 
 _Contact me_
 
