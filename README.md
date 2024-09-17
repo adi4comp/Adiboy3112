@@ -11,7 +11,7 @@ I am lucky to have graduated with the best peers and friends from IIT Kharagpur.
 
 _Contact me_
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Adiboy)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/adi4web)
 [![Email Badge](https://img.shields.io/badge/-Email-DB4437?style=flat-square&logo=Gmail&logoColor=white)](mailto:adisofficial.2001@gmail.com)
 <br /><br />
 
