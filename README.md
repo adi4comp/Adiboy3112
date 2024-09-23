@@ -13,7 +13,9 @@ _Contact me_
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/adi4web)
 [![Email Badge](https://img.shields.io/badge/-Email-DB4437?style=flat-square&logo=Gmail&logoColor=white)](mailto:adisofficial.2001@gmail.com)
+[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fadi4web)](https://x.com/adi4web)
+
 <br /><br />
 
-[_My Blog Page_](https://adi4blogs.netlify.app)
+[![Static Badge](https://img.shields.io/badge/Blogs-red?label=Aditya%20Unfiltered&link=https%3A%2F%2Fadi4blogs.netlify.app)](https://adi4blogs.netlify.app)
 <br /><br />
